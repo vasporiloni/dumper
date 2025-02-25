@@ -51,7 +51,7 @@ There are many more functions and features, but the above showcases the general 
 2. Enter API keys:
    ```json
    "API_KEYS": {
-      // leave empty if you will not check balances
+      # leave empty if you will not check balances
       "DEBANK_API_KEY": "YOUR KEY HERE",
       "SOLANATRACKER_API_KEY": "YOUR KEY HERE"
    }
