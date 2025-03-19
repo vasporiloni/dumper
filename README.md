@@ -46,7 +46,7 @@ There are many more functions and features, but the above showcases the general 
    ```
 #### Configurations:
 - Get Debank API key at [https://cloud.debank.com](https://cloud.debank.com)
-- Get Solana API key at [https://solanatracker.io](https://solanatracker.io)
+- Get Solana API key at [https://solanatracker.io](https://www.solanatracker.io/account/data-api)
 1. Open `config.json`
 2. Enter API keys:
    ```json
